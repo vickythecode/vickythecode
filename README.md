@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh Raman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg">
+<img align="right" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickythecode&label=Profile%20views&color=0e75b6&style=flat" alt="vickythecode" /> </p>
 
