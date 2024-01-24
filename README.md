@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh Raman</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/web-developer-illustration-1004x1024-wcqgbag3.png">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473pjtv8ciq8fjiodubj8ha6qinwvmqw25h2vagng0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickythecode&label=Profile%20views&color=0e75b6&style=flat" alt="vickythecode" /> </p>
 
